@@ -2,7 +2,11 @@
 
 ## Overview 
 
-The purpose of this project was to give W. Avy more information about the temperature trends in June and Decemeber in Oahu before opening the surfshop. The data was analyzed to determine if the surf and ice-cream shop could be sustainable year round. 
+The purpose of this project was to give W. Avy more information about the temperature trends in June and Decemeber in Oahu before opening the surfshop. The data was analyzed to determine if the surf and ice-cream shop could be sustainable year round.
+
+[Challenge](https://github.com/Lan-kdl/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+
+[Data](https://github.com/Lan-kdl/surfs_up/blob/main/hawaii.sqlite)
 
 ## Results
 
